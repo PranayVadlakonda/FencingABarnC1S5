@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1616a05c-5cd6-455c-ac22-b96f0a2af322" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AreaCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,11 +64,43 @@
       <option name="project" value="LOCAL" />
       <updated>1685781859718</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="take side as input from user">
+      <created>1685782054976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685782054976</updated>
+    </task>
+    <task id="LOCAL-00003" summary="take radius as input from user">
+      <created>1685782159262</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685782159262</updated>
+    </task>
+    <task id="LOCAL-00004" summary="take length and width as input from user">
+      <created>1685782309460</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685782309460</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create a variable of class name for calling the method">
+      <created>1685782472018</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685782472018</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize a scanner" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialize a scanner" />
+    <MESSAGE value="take side as input from user" />
+    <MESSAGE value="take radius as input from user" />
+    <MESSAGE value="take length and width as input from user" />
+    <MESSAGE value="create a variable of class name for calling the method" />
+    <option name="LAST_COMMIT_MESSAGE" value="create a variable of class name for calling the method" />
   </component>
 </project>

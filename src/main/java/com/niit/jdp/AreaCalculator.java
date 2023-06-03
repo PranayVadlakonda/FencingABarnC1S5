@@ -15,6 +15,8 @@ public class AreaCalculator {
         double width = sc.nextDouble();
         // create a variable of class name for calling the method
         AreaCalculator area = new AreaCalculator();
+        // call the area of square method and calculate the area of square using that
+        System.out.println(AreaCalculator.areaOfSquare(side));
 
 
 
