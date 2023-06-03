@@ -33,4 +33,9 @@ public class AreaCalculator {
         double areaOfCircle = (3.14*radius*radius);
         return areaOfCircle;
     }
+    // create a method for area of rectangle
+    public static double areaOfRectangle(double length,double width){
+        double areaOfRectangle = (length *width);
+        return areaOfRectangle;
+    }
 }
