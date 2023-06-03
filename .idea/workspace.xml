@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1616a05c-5cd6-455c-ac22-b96f0a2af322" name="Changes" comment="">
+    <list default="true" id="1616a05c-5cd6-455c-ac22-b96f0a2af322" name="Changes" comment="create a method for area of square">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/AreaCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685782995862</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=" call the area of rectangle method and calculate the area of rectangle using that">
+      <created>1685783237593</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685783237593</updated>
+    </task>
+    <task id="LOCAL-00009" summary="create a method for area of square">
+      <created>1685783488384</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685783488384</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -116,6 +131,8 @@
     <MESSAGE value="create a variable of class name for calling the method" />
     <MESSAGE value="call the area of square method and calculate the area of square using that" />
     <MESSAGE value="call the area of circle method and calculate the area of circle using that" />
-    <option name="LAST_COMMIT_MESSAGE" value="call the area of circle method and calculate the area of circle using that" />
+    <MESSAGE value=" call the area of rectangle method and calculate the area of rectangle using that" />
+    <MESSAGE value="create a method for area of square" />
+    <option name="LAST_COMMIT_MESSAGE" value="create a method for area of square" />
   </component>
 </project>

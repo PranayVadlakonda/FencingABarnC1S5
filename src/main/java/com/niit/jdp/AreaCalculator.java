@@ -28,4 +28,9 @@ public class AreaCalculator {
         double areaOfSquare= (side*side);
         return areaOfSquare;
     }
+    // create a method for area of circle
+    public static double areaOfCircle(double radius){
+        double areaOfCircle = (3.14*radius*radius);
+        return areaOfCircle;
+    }
 }
