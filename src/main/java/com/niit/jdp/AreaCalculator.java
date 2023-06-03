@@ -17,6 +17,8 @@ public class AreaCalculator {
         AreaCalculator area = new AreaCalculator();
         // call the area of square method and calculate the area of square using that
         System.out.println(AreaCalculator.areaOfSquare(side));
+        // call the area of circle method and calculate the area of circle using that
+        System.out.println(AreaCalculator.areaOfSquare(radius));
 
 
 
