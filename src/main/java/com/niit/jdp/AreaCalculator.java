@@ -10,6 +10,10 @@ public class AreaCalculator {
         double side = sc.nextDouble();
         // take radius as input from user
         double radius = sc.nextDouble();
+        // take length and width as input from user
+        double length = sc.nextDouble();
+        double width = sc.nextDouble();
+
 
 
 
