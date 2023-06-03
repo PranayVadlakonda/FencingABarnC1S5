@@ -8,6 +8,9 @@ public class AreaCalculator {
         Scanner sc = new Scanner(system.in);
         // take side as input from user
         double side = sc.nextDouble();
+        // take radius as input from user
+        double radius = sc.nextDouble();
+
 
 
     }
